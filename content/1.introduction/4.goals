@@ -1,0 +1,11 @@
+# Goals
+
+Our main aim is the development of the world's first virtual tardigrade—an in silico implementation of one of the most resilient organisms on Earth
+
+Through the use of their biological processes, neural architecture, and unique survival mechanisms, we will be able to look at the molecular and cellular events that enable life in extreme environments from a whole new perspective. This project has the ambition to change our current understanding of cryptobiosis, DNA protection, and stress tolerance, with far-reaching implications for biology, medicine, and space exploration.
+
+Tardigrades, nicknamed "water bears," are these amazing animals that can survive chilling, boiling, radiation, as well as space vacuum. Their matchless skill of staying with the desiccation-prone life and later reviving years into existence outpaces the elementary information of molecules and cells and is therefore a great starting point for deeper computer dynamic research.
+
+Our second goal is to take the tardigrade simulation one step further by migrating its **virtual brain**—a neural network representing its decision-making and environmental responses—entirely **on-chain**.
+
+This will enable the tardigrade to become not only a digital representation of life, but also a living, interactive entity powered by blockchain technology. Every tx in the $tardi contract will be an energy for the tardigrade, making it theoretically immortal. These transactions, akin to "metabolic energy," will sustain the tardigrade’s virtual life indefinitely, making it theoretically immortal as long as the blockchain persists. Every user interaction with the $tardi contract contributes to the tardigrade’s "life force."
